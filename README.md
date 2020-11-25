@@ -1,5 +1,3 @@
-# 20201-MIT-IAP-Computational-Law-Course
+# [2021 MIT IAP Computational Law Workshop Course](https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course/)
 
-## MIT IAP Computational Law Workshop Course
-
-* Couse Site: https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course/invitations
+*details coming soon*
