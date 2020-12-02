@@ -1,1 +1,8 @@
-theme: jekyll-theme-slate
+theme: "lone-wolf-theme"
+remote_theme: # "manid2/lone-wolf-theme"
+bootswatch_theme: "united" # cerulean, spacelab, united
+
+# site Settings
+lang: "en_US"
+title: "L2021-MIT-IAP-Computational-Law-Course"
+description: "The 2021 MIT Computational Law Course"
