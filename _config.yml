@@ -1,4 +1,4 @@
-theme: "lone-wolf-theme"
+theme: jekyll-theme-slate
 remote_theme: # "manid2/lone-wolf-theme"
 bootswatch_theme: "united" # cerulean, spacelab, united
 
