@@ -5,13 +5,12 @@
 This workshop course provides a conceptual overview and optional hands-on projects for understanding and solving legal use cases with data analytics, blockchain or other cryptosystems and a special module on rapid design solutions to key challenges posed by invited speakers. The course includes seminar-style lecture, class discussion, readings and other informational resources, and optional sessions hands-on, experiential learning through class projects. All class sessions and activities will be virtual and available through links provided to students shortly before the first class.
 
 #### Logistical Information
-| | |
-|-|-|
-|***Dates***|January 8, 15, 22, 29*|
-|***Time***| 12pm - 1pm Eastern*|
-|***Course Site***|[https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course/](https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course/)|
-|***Course GitHub***|[https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course)
-|***MIT Course Catalog Listing***|[http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html](http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html)
+
+* **Dates**	January 8, 15, 22, 29*
+* **Time**	12pm - 1pm Eastern*
+* **Course Site**	[https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course](https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course)
+* **Course GitHub**	[https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course)
+* **MIT Course Catalog Listing**	[http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html](http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html)
 
 
 ## Course Goal(s)
