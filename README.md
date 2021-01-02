@@ -1,6 +1,7 @@
 # 2021 IAP Computational Law Workshop Course
-> **Instructors** - [Dazza Greenwood](https://civics.com/about-dazza-greenwood), [Bryan Wilson](http://connection.mit.edu/bryan-wilson)
-> **Teaching Assistants** - Andrew Domzalski, Megan Ma
+
+* **Instructors** - [Dazza Greenwood](https://civics.com/about-dazza-greenwood), [Bryan Wilson](http://connection.mit.edu/bryan-wilson)
+* **Teaching Assistants** - Andrew Domzalski, Megan Ma
 
 This workshop course provides a conceptual overview and optional hands-on projects for understanding and solving legal use cases with data analytics, blockchain or other cryptosystems and a special module on rapid design solutions to key challenges posed by invited speakers. The course includes seminar-style lecture, class discussion, readings and other informational resources, and optional sessions hands-on, experiential learning through class projects. All class sessions and activities will be virtual and available through links provided to students shortly before the first class.
 
