@@ -10,7 +10,6 @@ This workshop course provides a conceptual overview and optional hands-on projec
 * **Dates**	January 8, 15, 22, 29*
 * **Time**	12pm - 1pm Eastern*
 * **Course Site**	[https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course](https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course)
-* **Course GitHub**	[https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course)
 * **MIT Course Catalog Listing**	[http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html](http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html)
 
 
@@ -19,7 +18,7 @@ Provide an overview of Computational Law with readings and materials from the [M
 
 ## Course Live Sessions
 
-During the course, we will hear from a different subject-matter experts in computational law and practice. In the coming weeks, we will continue updating this page with more information about each speaker and materials from their lectures.
+Each week during the course, we will hear from a different subject-matter experts in computational law and practice. In the coming weeks, we will continue updating this page with more information about each speaker and materials from their lectures.
 
 Please reserve an hour the week before each class to review class materials in advance of the class discussions that week. Class projects are optional and will include additional time outside of class. Class topics may change. 
 
