@@ -1,3 +1,5 @@
+![Mit_medialab_logo](https://user-images.githubusercontent.com/2357755/103801653-0b127f00-501c-11eb-8e6d-f321a085d13f.png)
+
 # 2021 IAP Computational Law Workshop Course
 
 * **Instructors** - [Dazza Greenwood](https://civics.com/about-dazza-greenwood), [Bryan Wilson](http://connection.mit.edu/bryan-wilson)
