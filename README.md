@@ -40,13 +40,15 @@ Please reserve an hour the week before each class to review class materials in a
 
 **Jan/22, Fri, 12:00PM-01:00PM**
 
-> Dazza Greenwood of MIT and Yuliya Panfil, senior fellow and director of New Americas Future of Property Rights program, will ask whether or how computational law could afford better methods and mechanisms for proving ownership of property in post-disaster and other emergency scenarios. Bryan Wilson, an MIT Fellow, will provide students with an optional opportunity to do a hands-on class project.
+> Dazza Greenwood of MIT and Chris Rothfuss, Wyoming State Senator, will discuss the emerging model legislation on personal and organizational digital identity and it's implications for the economy, government and society.
+
+> Dazza Greenwood of MIT and Yuliya Panfil, senior fellow and director of New Americas Future of Property Rights program, will ask whether or how computational law could afford better methods and mechanisms for proving ownership of property in post-disaster and other emergency scenarios. 
 
 ### Computational Arbitration and Space Law
 
 **Jan/29, Fri, 12:00PM-01:00PM**
 
-> Dazza Greenwood of MIT and Vivasvat Dadwal (Viva) attorney at King & Spalding and co-organizer of New York Legal Hackers, will discuss current and emerging arbitration trends in disputes involving the law of space and the moon and ask whether or how computational law could meet the growing challenges. Bryan Wilson, an MIT Fellow, will provide students with an optional opportunity to do a hands-on class project.
+> Dazza Greenwood of MIT and Vivasvat Dadwal (Viva) attorney at King & Spalding and co-organizer of New York Legal Hackers, will discuss current and emerging arbitration trends in disputes involving the law of space and the moon and ask whether or how computational law could meet the growing challenges. 
 
 
 ## Optional Course Projects
@@ -64,6 +66,7 @@ Projects are completely optional. Class projects will be an experimental attempt
 * *[A Perspective on Legal Algorithms](https://law.mit.edu/pub/aperspectiveonlegalalgorithms)* - Professor Alex 'Sandy' Pentland
 * *[MIT Computational Law Development Goals](https://law.mit.edu/pub/computationallawdevelopmentgoals)*
 * *[What Would an Integrated Development Environment for Law look Like?](https://law.mit.edu/pub/whatwouldanintegrateddevelopmentenvironmentforlawlooklike/)* - Michael Jeffery
+* *[Model Emerging Digital Identity Legislation](https://civics.com/2020/09/29/wyoming-digital-identity-legislation-update)* - Senator Chris Rothfuss and Dazza Greenwood
 * *[Deconstructing Legal Text: Object-Oriented Design in Legal Adjudication](https://law.mit.edu/pub/deconstructinglegaltext/)* - Megan Ma, Dmitriy Podkopaev, Avalon Campbell-Cousins, and Adam Nicholas
 * *[OpenEDGAR: Open Source Software for SEC Analysis](https://law.mit.edu/pub/openedgar/)* - Michael J. Bommarito, Daniel Martin Katz, and Eric M. Detterman
 * *[CodingTheLaw.org](https://www.codingthelaw.org/)
