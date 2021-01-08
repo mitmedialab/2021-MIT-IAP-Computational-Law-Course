@@ -11,8 +11,6 @@ This workshop course provides a conceptual overview and optional hands-on projec
 
 * **[https://youtu.be/GGdiezHxzqo](https://youtu.be/GGdiezHxzqo)**
 
-<img width="347" alt="Screen Shot 2021-01-07 at 9 42 35 PM" src="https://user-images.githubusercontent.com/2357755/103968150-4fdc0a00-5131-11eb-8221-4070501221c1.png">
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GGdiezHxzqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
