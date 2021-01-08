@@ -7,12 +7,11 @@
 
 This workshop course provides a conceptual overview and optional hands-on projects for understanding and solving legal use cases with data analytics, blockchain or other cryptosystems and a special module on rapid design solutions to key challenges posed by invited speakers. The course includes seminar-style lecture, class discussion, readings and other informational resources, and optional sessions hands-on, experiential learning through class projects. All class sessions and activities will be virtual and available through links provided to students shortly before the first class.
 
-## WELCOME TO NEW STUDENTS
+## Welcome to New Students
 
 * **[https://youtu.be/GGdiezHxzqo](https://youtu.be/GGdiezHxzqo)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GGdiezHxzqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 #### Logistical Information
 
@@ -20,7 +19,6 @@ This workshop course provides a conceptual overview and optional hands-on projec
 * **Time**	12pm - 1pm Eastern*
 * **Course Site**	[https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course](https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course)
 * **MIT Course Catalog Listing**	[http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html](http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html)
-
 
 ## Course Goal(s)
 Provide an overview of Computational Law with readings and materials from the [MIT Computational Law Report](https://law.mit.edu/) and selected deeper dives into special topics.
@@ -38,6 +36,8 @@ Please reserve an hour the week before each class to review class materials in a
 > *Dazza Greenwood of MIT Media Lab and Professor David Restrepo Amariles of HEC Paris where he is director of research on Legal Metrics and SMART Law (Scientific Mathematical, Algorithmic, Risk and Technology-driven law) will discuss Opportunities for Using Computational Law to Audit Data Supply Chains.*
 
 > *Bryan Wilson, an MIT Fellow, will provide students with information about an optional opportunity to do a hands-on class project.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/98wbYE2AXXg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Computational Law and Standards
 
