@@ -7,6 +7,14 @@
 
 This workshop course provides a conceptual overview and optional hands-on projects for understanding and solving legal use cases with data analytics, blockchain or other cryptosystems and a special module on rapid design solutions to key challenges posed by invited speakers. The course includes seminar-style lecture, class discussion, readings and other informational resources, and optional sessions hands-on, experiential learning through class projects. All class sessions and activities will be virtual and available through links provided to students shortly before the first class.
 
+## WELCOME TO NEW STUDENTS
+
+**[https://youtu.be/GGdiezHxzqo](https://youtu.be/GGdiezHxzqo)**
+<img width="347" alt="Screen Shot 2021-01-07 at 9 42 35 PM" src="https://user-images.githubusercontent.com/2357755/103968150-4fdc0a00-5131-11eb-8221-4070501221c1.png">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GGdiezHxzqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 #### Logistical Information
 
 * **Dates**	January 8, 15, 22, 29*
