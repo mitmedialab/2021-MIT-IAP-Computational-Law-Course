@@ -19,6 +19,7 @@ This workshop course provides a conceptual overview and optional hands-on projec
 * **Time**	12pm - 1pm Eastern*
 * **Course Site**	[https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course](https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course)
 * **MIT Course Catalog Listing**	[http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html](http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html)
+* **Code of Conduct**: [https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course/blob/main/code_of_conduct.md](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course/blob/main/code_of_conduct.md)
 
 ## Course Goal(s)
 Provide an overview of Computational Law with readings and materials from the [MIT Computational Law Report](https://law.mit.edu/) and selected deeper dives into special topics.
