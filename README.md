@@ -58,13 +58,13 @@ Please reserve an hour the week before each class to review class materials in a
 
 > *Bryan Wilson, an MIT Fellow, will provide students with information about an optional opportunity to do a hands-on class project.*
 
-### Computational Arbitration and Space Law
+### Computational Law in the Context of Space
 
 **Jan/29, Fri, 12:00PM-01:00PM**
 
-> *Dazza Greenwood of MIT and Vivasvat Dadwal (Viva) attorney at King & Spalding and co-organizer of New York Legal Hackers, will discuss current and emerging arbitration trends in disputes involving the law of space and the moon and ask whether or how computational law could meet the growing challenges.*
+> *Dazza Greenwood of MIT, Vivasvat Dadwal (Viva) attorney at King & Spalding and co-organizer of New York Legal Hackers, and Bruce Cahan of Stanford Law CodeX will discuss current and emerging trends in law and disputes involving space and the moon and ask whether or how computational law could meet the growing challenges.*
 
-> *Bryan Wilson, an MIT Fellow, will provide students with information about an optional opportunity to do a hands-on class project.*
+*Bryan Wilson, an MIT Fellow, will provide students with information about an optional opportunity to do a hands-on class project.*
 
 ## Optional Course Projects
 Projects are completely optional. Class projects will be an experimental attempt to adapt the project format of MIT's Media Ventures course.  Students seeking to submit a class project will complete a list of assignments posted ahead of each class sesssion. Students can then coordinate with Bryan for a 1-on-1 sessions, as needed, to discuss projects during the IAP period. Participants will have the option to present a Computational Law project in the final class period. Projects may include one or more of the following:
