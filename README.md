@@ -48,6 +48,8 @@ Please reserve an hour the week before each class to review class materials in a
 
 > *Bryan Wilson, an MIT Fellow, will provide students with information about an optional opportunity to do a hands-on class project.*
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PA-0PJA6I5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Computational Law and Property Ownership
 
 **Jan/22, Fri, 12:00PM-01:00PM**
