@@ -1,6 +1,13 @@
-# Computational Law and Space related resources
+# Computational Law in the Context of Space 
 
-**Space Law Readers**
+## Materials from [Bruce Cahan](https://www.linkedin.com/in/brucecahan) related to Space-Based Commodities Law and Markets
+
+* [Outer Frontiers of Banking- Financing Space Explorers and Safeguarding Terrestrial Finance - New Space 2016](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course/blob/main/Speakers/Space/Outer_Frontiers_of_Banking--Financing_Space_Explorers_and_Safeguarding_Terrestrial_Finance--New_Space_2016.pdf)
+* [Space Commodities Futures Trading Exchange - Adapting Terrestrial Market Mechanisms to Grow a Sustainable Space Economy - Bruce Cahan et al 2018](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course/blob/main/Speakers/Space/Space_Commodities_Futures_Trading_Exchange--Adapting_Terrestrial_Market_Mechanisms_to_Grow_a_Sustainable_Space_Economy_2018.pdf)
+* [Space Commodities in Service of National Security 082018 final](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course/blob/main/Speakers/Space/Space_Commodities_in_Service_of_National_Security_082018_final.pdf)
+* [The space economy needs more financial engineering — Quartz 092620](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course/blob/main/Speakers/Space/The_space_economy_needs_more_financial_engineering%20%E2%80%94%20Quartz%20092620.pdf)
+
+## Space Law Readers
 
 Space law - Wikipedia
 https://en.wikipedia.org/wiki/Space_law
