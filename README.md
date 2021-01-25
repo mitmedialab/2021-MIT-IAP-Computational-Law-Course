@@ -30,6 +30,9 @@ Each week during the course, we will hear from a different subject-matter expert
 
 Please reserve an hour the week before each class to review class materials in advance of the class discussions that week. Class projects are optional and will include additional time outside of class. Class topics may change. 
 
+
+-----------------------------------------------------
+
 ### Computational Law and Data Supply Chains
 
 **Jan/08, Fri 12:00PM-01:00PM**	
@@ -40,6 +43,11 @@ Please reserve an hour the week before each class to review class materials in a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/98wbYE2AXXg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+-----------------------------------------------------
+
+
+
 ### Computational Law and Standards
 
 **Jan/15, Fri, 12:00PM-01:00PM**	
@@ -49,6 +57,11 @@ Please reserve an hour the week before each class to review class materials in a
 > *Bryan Wilson, an MIT Fellow, will provide students with information about an optional opportunity to do a hands-on class project.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PA-0PJA6I5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+-----------------------------------------------------
+
+
 
 ### Computational Law and Property Ownership
 
@@ -62,6 +75,11 @@ Please reserve an hour the week before each class to review class materials in a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6I_Bz44PtUk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+-----------------------------------------------------
+
+
+
 ### Computational Law in the Context of Space
 
 **Jan/29, Fri, 12:00PM-01:00PM**
@@ -71,6 +89,11 @@ Please reserve an hour the week before each class to review class materials in a
 > **Class-Related Readings:** [Computational Law in the Context of Space](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course/blob/main/Speakers/Space/README.md)
 
 > *Bryan Wilson, an MIT Fellow, will provide students with information about an optional opportunity to do a hands-on class project.*
+
+
+-----------------------------------------------------
+
+
 
 ## Optional Course Projects
 Projects are completely optional. Class projects will be an experimental attempt to adapt the project format of MIT's Media Ventures course.  Students seeking to submit a class project will complete a list of assignments posted ahead of each class sesssion. Students can then coordinate with Bryan for a 1-on-1 sessions, as needed, to discuss projects during the IAP period. Participants will have the option to present a Computational Law project in the final class period. Projects may include one or more of the following:
