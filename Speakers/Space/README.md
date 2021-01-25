@@ -24,8 +24,8 @@ https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties.html
 International Space Law - Space Foundation
 https://www.spacefoundation.org/space_brief/international-space-law/
 
-Maintenance
-https://www.americanbar.org/maintenance/
+Space Law - The American Bar Association
+https://www.americanbar.org/groups/young_lawyers/publications/tyl/topics/space-law/
 
 Space Law – SpacePolicyOnline.com
 https://spacepolicyonline.com/topics/space-law/
