@@ -37,11 +37,13 @@ Please reserve an hour the week before each class to review class materials in a
 
 **Jan/08, Fri 12:00PM-01:00PM**	
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/98wbYE2AXXg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 > *Dazza Greenwood of MIT Media Lab and Professor David Restrepo Amariles of HEC Paris where he is director of research on Legal Metrics and SMART Law (Scientific Mathematical, Algorithmic, Risk and Technology-driven law) will discuss Opportunities for Using Computational Law to Audit Data Supply Chains.*
 
 > *Bryan Wilson, an MIT Fellow, will provide students with information about an optional opportunity to do a hands-on class project.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/98wbYE2AXXg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 -----------------------------------------------------
@@ -52,11 +54,13 @@ Please reserve an hour the week before each class to review class materials in a
 
 **Jan/15, Fri, 12:00PM-01:00PM**	
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PA-0PJA6I5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 > *Dazza Greenwood of MIT Media Lab and Kenneth Jones, Chief Technologist of Tanenbaum Keale LLP, will discuss key technical standards for legal data and interactions, from ANSI X12 EDIFACT to the SALI Alliance's emerging Legal Matter Standard Specification (LMSS) and how these standards provide a foundation for innovative computational law systems.*
 
 > *Bryan Wilson, an MIT Fellow, will provide students with information about an optional opportunity to do a hands-on class project.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PA-0PJA6I5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 -----------------------------------------------------
@@ -67,13 +71,15 @@ Please reserve an hour the week before each class to review class materials in a
 
 **Jan/22, Fri, 12:00PM-01:00PM**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6I_Bz44PtUk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 > *Dazza Greenwood of MIT and Chris Rothfuss, Wyoming State Senator, will discuss the emerging model legislation on personal and organizational digital identity and it's implications for the economy, government and society.*
 
 > *Dazza Greenwood of MIT and Yuliya Panfil, senior fellow and director of New Americas Future of Property Rights program, will ask whether or how computational law could afford better methods and mechanisms for proving ownership of property in post-disaster and other emergency scenarios.*
 
 > *Bryan Wilson, an MIT Fellow, will provide students with information about an optional opportunity to do a hands-on class project.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6I_Bz44PtUk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 -----------------------------------------------------
@@ -84,13 +90,15 @@ Please reserve an hour the week before each class to review class materials in a
 
 **Jan/29, Fri, 12:00PM-01:00PM**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hk4wtRnUmwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 > *Dazza Greenwood of MIT, Vivasvat Dadwal (Viva) attorney at King & Spalding and co-organizer of New York Legal Hackers, and Bruce Cahan of Stanford Law CodeX will discuss current and emerging trends in law and disputes involving space and the moon and ask whether or how computational law could meet the growing challenges.*
 
 > **Class-Related Readings:** [Computational Law in the Context of Space](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course/blob/main/Speakers/Space/README.md)
 
 > *Bryan Wilson, an MIT Fellow, will provide students with information about an optional opportunity to do a hands-on class project.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hk4wtRnUmwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 -----------------------------------------------------
 
