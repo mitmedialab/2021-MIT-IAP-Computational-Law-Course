@@ -9,6 +9,10 @@
 
 > Friday, 8 January 2020
 
+## Presentation Slides
+
+* [https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course/blob/main/Speakers/DataSupplyChain/David%20Restrepo%2C%20Smart%20law%20Data%20Supply%20Chain.pdf](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course/blob/main/Speakers/DataSupplyChain/David%20Restrepo%2C%20Smart%20law%20Data%20Supply%20Chain.pdf)
+
 ## Articles from speaker 
 
 Restrepo-Amariles, David and Lewkowicz, Gregory, Unpacking Smart Law: How Mathematics and Algorithms are Reshaping the Legal Code in the Financial Sector (December 23, 2020). Lex Electronica, Vol. 25, n° 3 (2020), pp 171-185., Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3754007 
